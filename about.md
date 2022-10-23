@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+꿈꾸는 개발자입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+공부한 자료를 정리하는 곳입니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[enem99@naver.com](mailto:enem99@naver.com)
